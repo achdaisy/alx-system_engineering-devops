@@ -1,3 +1,5 @@
+0x03-shell_variables_expansions Project Readme file
+
 0-alias- Create a script that creates an alias.
 Name: ls
 Value: rm *
